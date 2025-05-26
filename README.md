@@ -1,6 +1,6 @@
 # 🚢 Titanic Dataset Preprocessing
 
-A Python-based preprocessing pipeline for the [Titanic dataset](https://www.kaggle.com/c/titanic/data), designed to clean and prepare data for machine learning tasks such as predicting passenger survival.
+A Python-based preprocessing pipeline for the [Titanic dataset](https://www.kaggle.com/c/titanic/data), designed to clean and prepare data for varoius useful purpose.
 
 ---
 
